@@ -1,0 +1,15 @@
+/*************************************/
+/* BELOW 425px */
+/*************************************/
+
+@media (max-width: 27em) {
+  .container {
+    margin: 0rem 2.2rem;
+  }
+
+  @media (max-width: 27em) {
+    html {
+      font-size: 56.25%;
+    }
+  }
+}
