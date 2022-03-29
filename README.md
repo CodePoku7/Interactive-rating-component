@@ -3,39 +3,36 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-
 - [Author](#author)
 
 ## Overview
 
+- This is a Frontend Mentor challenge project where we had to create interactive rating component as close to mockups as possible.
+
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./interactive_rating_component.png)
 
 ### Links
 
-- Solution URL: [Site](https://your-solution-url.com)
-- Live Site URL: [Site](https://your-live-site-url.com)
+- Live Site URL: [Site](https://codepoku7.github.io/Interactive-rating-component/)
 
 ## My process
+
+- Started up as taking the mockups and slicing up the layout in Figma. Then wrote the HTML and added CSS properties. Finally wrote Javascript functionality and added responsiveness.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-### What I learned
+- Media Queries
+- Javascript
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@CodePoku7](https://www.frontendmentor.io/profile/CodePoku7)
